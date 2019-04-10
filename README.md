@@ -1,2 +1,2 @@
 # ChurchSystem
-## Sistema de Gerenciamento de Céluas
+## Sistema de Gerenciamento de Células
